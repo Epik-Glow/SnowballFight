@@ -1,0 +1,8 @@
+name: SnowballFight
+main: me.epikglow.SnowballFight.SnowballFight
+version: 0.0.1
+commands:
+    sf:
+        description: Snowballs become harmful.
+        usage:  |
+            /<command> <start/end/kills/deaths>
